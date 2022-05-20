@@ -1,0 +1,107 @@
+[
+  {
+    "category": "Historia",
+    "Questions": [
+      {
+        "Question": "¿Cuál fue el primer país en aprobar el sufragio femenino?",
+        "preguntaCorrecta": "Nueva Zelanda.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta"
+      },
+      {
+        "Question": "¿En qué año llegó el hombre a la Luna?",
+        "preguntaCorrecta": "En el año 1969.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta"
+      },
+      {
+        "pregunta": "¿Qué importante batalla tuvo lugar en 1815?",
+        "preguntaCorrecta": "La batalla de Waterloo.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta"
+      },
+      {
+        "pregunta": "¿Cuál era la ciudad hogar de Marco Polo?",
+        "preguntaCorrecta": "Venecia.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta"
+      }
+    ]
+  },
+  {
+    "category": "Geografia",
+    "Questions": [
+      {
+        "pregunta": "¿Cuál es la capital de Filipinas?",
+        "preguntaCorrecta": "Manila.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta"
+      },
+
+      {
+        "pregunta": "¿Cuál es el río más caudaloso del mundo?",
+        "preguntaCorrecta": "El Amazonas.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta"
+      },
+
+      {
+        "pregunta": "¿Qué país está entre Perú y Colombia?",
+        "preguntaCorrecta": "Ecuador.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta"
+      },
+
+      {
+        "pregunta": "¿En qué país se encuentra el río Po?",
+        "preguntaCorrecta": "Italia.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta"
+      }
+    ]
+  },
+  {
+    "category": "010101010",
+    "Questions": [
+      {
+        "pregunta": "¿Cuál es la capital de Filipinas?",
+        "preguntaCorrecta": "Manila.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta"
+      },
+
+      {
+        "pregunta": "¿Cuál es el río más caudaloso del mundo?",
+        "preguntaCorrecta": "El Amazonas.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta"
+      },
+
+      {
+        "pregunta": "¿Qué país está entre Perú y Colombia?",
+        "preguntaCorrecta": "Ecuador.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta"
+      },
+
+      {
+        "pregunta": "¿En qué país se encuentra el río Po?",
+        "preguntaCorrecta": "Italia.",
+        "preguntaIncorrecta1": "incorrecta",
+        "preguntaIncorrecta2": "incorrecta",
+        "preguntaIncorrecta3": "incorrecta"
+      }
+    ]
+  }
+]

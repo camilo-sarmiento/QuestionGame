@@ -1,0 +1,29 @@
+:root {
+    --main-color: #118d79;
+    --orange-color: #ff5e3e;
+    --blue-color: #030f66;
+    --white-color: #ffff;
+    --text-color: #4d4d4d;
+    --Quicksand-font: "Quicksand", sans-serif;
+    --Lexend-Deca-font: "Lexend Deca", sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#game{
+    width: 100vw;
+}
+.question{
+    width: 100%;
+    height: 100px;
+    background-color: var(--main-color);
+}
+button{
+    width: 50px;
+    height: 50px;
+    background-color: #ff5e3e;
+}
